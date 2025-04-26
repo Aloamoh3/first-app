@@ -30,7 +30,7 @@ class MyApp extends StatelessWidget {
         // tested with just a hot reload.
         colorScheme: ColorScheme.fromSeed(seedColor: const Color.fromARGB(255, 8, 22, 68)),
       ),
-      home: const MyHomePage(title: 'Aloamoh First App', age: 100),
+      home: const MyHomePage(title: 'Aloamoh First App', age: 50),
     );
   }
 }
